@@ -9,6 +9,12 @@ font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
 
+.title.sausage {
+    font-size: 50px;
+    font-weight: 1000;
+    color:darkslategrey;
+}
+
 .subheading {
     font-size: 18px;
     text-align: center;
